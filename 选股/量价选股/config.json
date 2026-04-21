@@ -1,0 +1,11 @@
+{
+    "headers": {
+      "Cookie": "other_uid=Ths_iwencai_Xuangu_1l7u21eqldlstgv8ntexvduxab2wcedd; ta_random_userid=f0u856a11n; cid=2467131bc5530b7152d2f1283e9de76d1734742468; u_ukey=A10702B8689642C6BE607730E11E6E4A; u_uver=1.0.0; u_dpass=5m5o3YBvs9OBJwInY8dEKP6vwm0fOuYQIKOnPist%2BrEh%2BfGtApdc3G%2F9b%2BBh3Ar%2BHi80LrSsTFH9a%2B6rtRvqGg%3D%3D; u_did=5ED9FDE24BB4421F8AFBCCCDB6F8FDE4; u_ttype=WEB; v=A6JnRvvOMZclhy1Lq-8YmUhL8yMB86YNWPeaMew7zpXAv0yd1IP2HSiH6ka_",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+    },
+    
+    "data": {
+      "question": "最近3个交易日涨幅小于18%；剔除st；沪深a股；流通市值大于40亿小于500亿；股价大于5元"
+    }
+  }
+  
