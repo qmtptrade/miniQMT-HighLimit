@@ -2,6 +2,8 @@
 
 ## 原项目烂尾而且加密了pyc文件，本项目反编译了几个pyc文件
 
+PS: 其他那几个选股的步骤，直接使用QMT或者Ptrade实现就行了。 计划整个项目迁移到Ptrade或QMT 不需要那么麻烦，又要用问财选股，又要单独获取涨停价。原项目过于麻烦
+
 该项目实现了一种**量化打板策略**，用于A股股票交易，涨停板制度只存在于A股市场,
 
 旨在识别并利用市场中潜在的涨停机会。该策略通过技术指标、历史价格数据和成交量分析，股吧数据分析获取可能达到涨停的股票池，并在股票涨停瞬间买入以获取隔日高溢价。
@@ -14,7 +16,7 @@
 bash
 
 复制代码
-git clone  https://github.com/123quant/QMT-QuantLimit.git
+git clone  https://github.com/qmtptrade/miniQMT-HighLimit.git
 ```
 
 安装所需依赖：
